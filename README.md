@@ -18,7 +18,7 @@
 ## 🛠️ 사용 기술 스택  
 - **Unreal Engine5**: 게임 개발 및 UI 구성  
 - **C++**: 게임 로직 구현  
-- **GitHub Actions**: 코드 버전 관리  
+- **GitHub Desktop**: 코드 버전 관리  
 <br></br>
 
 📖Guidance from: [인생 언리얼 5 프로젝트 교과서](https://product.kyobobook.co.kr/detail/S000213555130)
